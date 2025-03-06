@@ -1,4 +1,4 @@
-Data Science Projects:
+<h2>Data Science Projects:</h2>
 Welcome to my Data Science repository! This repository contains a collection of data science projects, focusing on various aspects of data analysis, visualization, and machine learning. Feel free to explore the code, datasets, and documentation.
 
 Projects:
