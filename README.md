@@ -4,6 +4,11 @@ Welcome to my Data Science repository! This repository contains a collection of 
 <br>
 <h4>Projects:</h4>
 <br>
+<h5>Automobile Sales Dashboard:</h5>
+<br>
+The final project led to improved data understanding and presented insights in a user-friendly format,
+enabling better decision-making.
+<br>
 <h5>Data Science Ecosystem:</h5>
 <br>
 A detailed notebook exploring the tools and libraries commonly used in Data Science.
