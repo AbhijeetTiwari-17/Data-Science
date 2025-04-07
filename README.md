@@ -19,6 +19,7 @@ An end-to-end data analysis project showcasing data cleaning, exploration, and v
 <h5>Data Visualization Projects:</h5>
 <br>
 Project 1: A detailed visualization project demonstrating effective ways to present data.
+<br>
 Project 2: A Python script focusing on visualizations using libraries like Matplotlib and Seaborn.
 <br>
 <h5>Stock and Revenue Data Analysis:</h5><br>
